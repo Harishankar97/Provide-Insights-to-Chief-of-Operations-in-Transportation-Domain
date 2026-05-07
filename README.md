@@ -98,16 +98,13 @@ With operations across 10 cities, Goodcabs aims to:
 
 
 
-
-
-
-
-
-
-
-
-
 The analysis helped uncover:
+
+
+* City-wise operational performance
+* Customer behavior patterns
+* Revenue-driving factors
+* Demand fluctuations across time periods
 
 Dashboard - [Click here](https://app.powerbi.com/view?r=eyJrIjoiNThlMjk2MDctNDU1Ni00OTI3LWJlYTktYTllYWU1OWU0YTU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 Linkedin - [Click here](https://www.linkedin.com/posts/harishankarsv_hai-everyone-today-i-am-gonna-post-about-ugcPost-7281732926730379264-cgH7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACihtUIBgc1VQaAF7b6ApP_jNPsvAX0g-GI)
@@ -118,9 +115,24 @@ Linkedin - [Click here](https://www.linkedin.com/posts/harishankarsv_hai-everyon
 
 
 
-* City-wise operational performance
-* Customer behavior patterns
-* Revenue-driving factors
-* Demand fluctuations across time periods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 These insights can support data-driven decision-making for improving customer satisfaction and scaling operations effectively.
